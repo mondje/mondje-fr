@@ -14,6 +14,12 @@
             "email": "stephane.ncho@syedevpro.com"
         }
     ],
+    "repositories": [
+      {
+         "type": "vcs",
+         "url": "https://github.com/mondje/mondje-fr" 
+      }
+    ],    
     "autoload":{
       "psr-4":{
         "Controller\\": "intermediary"
