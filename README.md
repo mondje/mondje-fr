@@ -6,7 +6,7 @@ Un framework php, nous aimons dire que Mondje est une architecture de développe
 
 ## À propos du framework
 
-Le Framework mondje est une révolution de framework PHP proposé par le Stéphane N'cho, visant à faciliter la vie des développeurs (confirmés ou débutants) en proposant un modèle de programmation professionnel simple, sécurisé avec une structure organisée.
+Le Framework mondje est une révolution de framework PHP proposé par Stéphane N'cho, visant à faciliter la vie des développeurs (confirmés ou débutants) en proposant un modèle de programmation professionnel simple, sécurisé avec une structure organisée.
 
 Mondje est un framework évolutif dans le sens où il évolue autour de modules créés par des développeurs expérimentés, pour vous donner un coup de pouce chaque fois que vous avez besoin de certaines fonctionnalités pour votre application.
 
