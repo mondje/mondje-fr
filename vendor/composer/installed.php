@@ -1,0 +1,52 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'type' => 'project',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => '8aa3bceb165d75dc29389817fb18910c8b1dcb29',
+        'name' => 'mondje/mondje-fr',
+        'dev' => true,
+    ),
+    'versions' => array(
+        'filp/whoops' => array(
+            'pretty_version' => '2.7.1',
+            'version' => '2.7.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../filp/whoops',
+            'aliases' => array(),
+            'reference' => 'fff6f1e4f36be0e0d0b84d66b413d9dcb0c49130',
+            'dev_requirement' => false,
+        ),
+        'mondje/mondje-fr' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => '8aa3bceb165d75dc29389817fb18910c8b1dcb29',
+            'dev_requirement' => false,
+        ),
+        'phpmailer/phpmailer' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../phpmailer/phpmailer',
+            'aliases' => array(),
+            'reference' => '21a6071ac30715eb9e38139e659089d3e8f45434',
+            'dev_requirement' => false,
+        ),
+        'psr/log' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../psr/log',
+            'aliases' => array(
+                0 => '1.1.x-dev',
+            ),
+            'reference' => '0f73288fd15629204f9d42b7055f72dacbe811fc',
+            'dev_requirement' => false,
+        ),
+    ),
+);

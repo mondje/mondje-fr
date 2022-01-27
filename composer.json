@@ -1,0 +1,35 @@
+{
+    "name": "mondje/mondje-fr",
+    "description": "Le framework PHP le plus flexible qui vous propose de coder sur une belle structure professionnelle et sécurisée",
+    "type": "project",
+    "keywords": [
+        "framework",
+        "Mondje",
+        "Mondje framework"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "N'guessan N'cho N'tamon Stéphane",
+            "email": "stephane.ncho@syedevpro.com"
+        }
+    ],
+    "autoload":{
+      "psr-4":{
+        "Controller\\": "intermediary"
+      }
+    },
+    "autoload-dev":{
+      "psr-4":{
+        "Model\\": "middleware"
+      }
+    },
+
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.4|^8.0",
+        "filp/whoops": "^2.6@dev",
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
